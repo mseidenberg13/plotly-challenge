@@ -85,6 +85,9 @@
       {
         domain: { x: [0, 1], y: [0, 1] },
         value: result.wfreq,
+        gauge: {
+          axis: { range: [0, 9]}
+        },
         title: '<b>Belly Button Washing Frequency</b><br> Scrubs per Week',
         type: "indicator",
         mode: "gauge+number"
