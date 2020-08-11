@@ -46,7 +46,7 @@ Additionally, you are welcome to create any layout that you would like for your 
 
 ![hw](Images/hw02.png)
 
-## Advanced Challenge Assignment (Optional)
+## Advanced Challenge
 
 The following task is advanced and therefore optional.
 
